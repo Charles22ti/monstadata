@@ -1,43 +1,16 @@
-// JSON Version: manga.json V1.0 Rev 0
-{
-  "manga_id": "dragonslayer-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "Return of the Peerless Dragonslayer",
-  "status": "Ongoing",
-  "author": "Nudeul Brain",
-  "artist": "Kakaopage",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Shounen",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 9.5,
-  "synopsis": "Kemanusiaan hancur di bawah cengkeraman naga. Sebagai Pembunuh Naga (Dragonslayer) terakhir, dia bertarung hingga akhir namun gagal. Saat dia menutup mata menanti kematian, dia tiba-tiba terbangun di masa lalu, kembali ke hari sebelum segalanya dimulai. Dengan ingatan dari kehidupan sebelumnya, dia bersumpah tidak akan membiarkan tragedi yang sama terulang.",
-  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/covers/dragonslayer-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "The Fall and The Return",
-      "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/dragonslayer/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/dragonslayer/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/dragonslayer/ch-01/003.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/dragonslayer/ch-01/004.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "A New Beginning",
-      "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/dragonslayer/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/dragonslayer/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/dragonslayer/ch-02/003.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/dragonslayer/ch-02/004.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "A Cadet Becomes a Prophet",
+    "title": "A Cadet Becomes A Prophet",
+    "category": "Romance",
+    "path": "Romance/A Cadet Becomes a Prophet.cbz",
+    "cover": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=A%20Cadet%20Becomes%20A%20Prophet"
+  },
+  {
+    "id": "Academy_s Genius Swordmaster",
+    "title": "Academy S Genius Swordmaster",
+    "category": "Romance",
+    "path": "Romance/Academy_s Genius Swordmaster.cbz",
+    "cover": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=Academy%20S%20Genius%20Swordmaster"
+  }
+]
